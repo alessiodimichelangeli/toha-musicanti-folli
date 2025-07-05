@@ -1,6 +1,6 @@
 baseURL: https://alessiodimichelangeli.github.io
 
-languageCode: bn
+languageCode: it-it
 title: "Musicanti Folli"
 
 # Use Hugo modules to add theme
@@ -23,15 +23,15 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
-    weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
+    title: "Musicanti Folli"
     weight: 2
+  it:
+    languageCode: it-it
+    languageName: Italian
+    title: "Musicanti Folli"
+    weight: 1
 # default language for the content
-defaultContentLanguage: en
+defaultContentLanguage: it
 
 
 # Allow raw html in markdown file

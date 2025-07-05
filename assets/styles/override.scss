@@ -1,0 +1,12 @@
+.home{
+  .background{
+    filter: none;
+  }
+
+  html[data-theme="dark"] .home .profile-image-container img {
+  background-color: transparent !important;
+}
+}
+
+
+

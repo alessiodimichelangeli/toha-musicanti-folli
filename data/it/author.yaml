@@ -1,0 +1,19 @@
+# some information about you
+name: "Musicante,"
+nickname: ""
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Ciao"
+image: "images/author/musicantifolli.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "musicantifolli@gmail.com"
+#  phone: "+0123456789"
+#  github: johndoe
+#  linkedin: johndoe
+
+# some summary about what you do
+summary:
+  - noi siamo musica
+  - noi siamo follia
+  - noi siamo ritmo
+  - noi siamo caos
